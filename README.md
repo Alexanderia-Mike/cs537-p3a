@@ -8,4 +8,4 @@ The Map-Reduce algorithm consists of two process. In the first process a number 
 
 In both mapping step and reduce step, the algorithm supports high concurrency to speed up the calculation. Also, mutex read-write locks are implemented in several global variables, including a hash-map and a list for intermediate key-value pairs.
 
-The detailed requirements of the project can be found in []().
+The detailed requirements of the project can be found in [P3a-MapReduce.pdf](https://github.com/Alexanderia-Mike/cs537-p3a/blob/main/P3a-MapReduce.pdf).
